@@ -1,0 +1,7 @@
+#!/bin/bash
+# Create the file with touch command
+touch '*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
+
+# Add the text "Best School" to the file and end with a new line
+echo "Best School" >> '*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
+
